@@ -24,7 +24,8 @@ local PlaceIDs = {
 	-- ID for a game
 	[142823291] = "4d3c83db23f2076156a7c97722904a69", -- mm2
 	[7180042682] = "737dfa14f8d490b5f1cf057900d6f438", -- Military Tycoon
-	[126244816328678] = "615e12df5b2699f877de294014756b2f", -- DIG
+	[119048529960596] = "64bf726d90624d6984a3d2ceaa638dc2", -- Restaurant Tycoon 3
+
 	[70906625936847] = "6442fc6028ea312367fc1150b447da6f", -- Gym Star Simulator
 	[15532962292] = "6c4e3a9afad63ae37019fb0a9d29d26e", -- sol rng
 		[139955980906311] = "6c4e3a9afad63ae37019fb0a9d29d26e", -- sol rng
