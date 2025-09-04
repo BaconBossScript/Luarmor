@@ -15,8 +15,12 @@ local Lootlabs_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lootlabs-
 local Workink_Enabled = true
 local Workink_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Workink-grxBRLTgeITR"
 
+local Lockr_Enabled = true
+local Lockr_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lockr-iDchxOshXtRJ"
+
 local bss = "a927d4ab350626e29b1e6ae075b70801"
 if _G.remake then
+
 	bss = "a927d4ab350626e29b1e6ae075b70801"
 end
 
@@ -115,6 +119,16 @@ Tabs.Main:AddButton({
 		checkKey(Input.Value)
 	end,
 })
+
+if Lockr_Enabled then
+	Tabs.Main:AddButton({
+		Title = "Get Key (Lockr)",
+		Callback = function()
+			setclipboard(Lockr_Link)
+			notify("Copied To Clipboard", "Ad Reward Link has been copied to your clipboard", 16)
+		end,
+	})
+end
 
 if Linkvertise_Enabled then
 	Tabs.Main:AddButton({
