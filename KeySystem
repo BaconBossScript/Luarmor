@@ -15,7 +15,7 @@ local Lootlabs_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lootlabs-
 local Workink_Enabled = true
 local Workink_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Workink-grxBRLTgeITR"
 
-local Lockr_Enabled = true
+local Lockr_Enabled = false
 local Lockr_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lockr-iDchxOshXtRJ"
 
 local bss = "a927d4ab350626e29b1e6ae075b70801"
