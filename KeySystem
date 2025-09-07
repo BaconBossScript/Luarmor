@@ -12,11 +12,11 @@ local Linkvertise_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Linkve
 local Lootlabs_Enabled = true
 local Lootlabs_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lootlabs-MUkxhIbgEZmD"
 
-local Workink_Enabled = false
+local Workink_Enabled = true
 local Workink_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Workink-grxBRLTgeITR"
 
-local Lockr_Enabled = true
-local Lockr_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lockr-iDchxOshXtRJ"
+local Lockr_Enabled = false
+local Lockr_Link = ""
 
 local bss = "a927d4ab350626e29b1e6ae075b70801"
 if _G.remake then
