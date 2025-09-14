@@ -40,7 +40,8 @@ local PlaceIDs = {
 	[138384544898173] = "fd138d558e94ddfde7a7b263c302a534", -- Trade a Brainrot
 		[121864768012064] = "171cff6942d630a1fb488d66be2eeb2c", -- Fish It
 		[90462358603255] = "40e774aa6d188776c82117068c6af7d6", -- Anime Eternal
-	[109983668079237] = "b69f45962d44f8bd67a1a4d0350d7e4e", -- Anime Eternal
+	[109983668079237] = "b69f45962d44f8bd67a1a4d0350d7e4e", -- Steal A Brainrot
+		[96342491571673] = "b69f45962d44f8bd67a1a4d0350d7e4e", -- Steal A Brainrot
 	[105555311806207] = "236a9eed1154b790b9bfee45917c702d" -- Build a Zoo
 
 }
