@@ -43,6 +43,7 @@ local PlaceIDs = {
 	[109983668079237] = "b69f45962d44f8bd67a1a4d0350d7e4e", -- Steal A Brainrot
 		[96342491571673] = "b69f45962d44f8bd67a1a4d0350d7e4e", -- Steal A Brainrot
 	[72829404259339] = "2fb9d55278678091c72d9a50785f8230", -- Anime Rangers X
+		[75366259315586] = "da84b055d84eab48cb53532571d6080d", -- build ur base
 	[105555311806207] = "236a9eed1154b790b9bfee45917c702d" -- Build a Zoo
 
 }
