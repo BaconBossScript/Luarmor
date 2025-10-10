@@ -15,7 +15,7 @@ local Lootlabs_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lootlabs-
 local Workink_Enabled = true
 local Workink_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Workink-grxBRLTgeITR"
 
-local Lockr_Enabled = true
+local Lockr_Enabled = false
 local Lockr_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lockr-iDchxOshXtRJ"
 
 local bss = "a927d4ab350626e29b1e6ae075b70801"
@@ -45,6 +45,7 @@ local PlaceIDs = {
 	[72829404259339] = "2fb9d55278678091c72d9a50785f8230", -- Anime Rangers X
 		[75366259315586] = "da84b055d84eab48cb53532571d6080d", -- build ur base
 				[127742093697776] = "3d30fc2f417b1024f4aba244079cfa20", -- Plants Vs Brainrots
+		[133627020051654] = "5f28c81e222e575f54058e608af6012f", -- Plants Vs Brainrots
 	[105555311806207] = "236a9eed1154b790b9bfee45917c702d" -- Build a Zoo
 
 }
