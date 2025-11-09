@@ -9,10 +9,10 @@ local UI_Theme = "Light"
 local Linkvertise_Enabled = true
 local Linkvertise_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Linkvertise-NbnfpfqYnZOG"
 
-local Lootlabs_Enabled = false
+local Lootlabs_Enabled = true
 local Lootlabs_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lootlabs-MUkxhIbgEZmD"
 
-local Workink_Enabled = false
+local Workink_Enabled = true
 local Workink_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Workink-grxBRLTgeITR"
 
 local Lockr_Enabled = true
