@@ -15,7 +15,7 @@ local Lootlabs_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lootlabs-
 local Workink_Enabled = true
 local Workink_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Workink-grxBRLTgeITR"
 
-local Lockr_Enabled = true
+local Lockr_Enabled = false
 local Lockr_Link = "https://ads.luarmor.net/get_key?for=Beecon_Hub__Lockr-iDchxOshXtRJ"
 
 local bss = "a927d4ab350626e29b1e6ae075b70801"
@@ -53,7 +53,7 @@ local PlaceIDs = {
 		["World5"] = "5f28c81e222e575f54058e608af6012f", -- Punch Wall
 		["World6"] = "5f28c81e222e575f54058e608af6012f", -- Punch Wall
 
-
+    [76558904092080] = "b45e4746f112c5fa522d2602425d8e19", -- The Forge
 	[105555311806207] = "236a9eed1154b790b9bfee45917c702d" -- Build a Zoo
 
 }
