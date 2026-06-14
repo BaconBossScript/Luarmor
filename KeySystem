@@ -58,7 +58,11 @@ local PlaceIDs = {
 		[123955125827131] = "3f5a7ccdc686077ef590e84d108977b9", -- Double Dungeon,
 		[138368689293913] = "3f5a7ccdc686077ef590e84d108977b9", -- Inf Tower
 
-	[105555311806207] = "236a9eed1154b790b9bfee45917c702d" -- Build a Zoo
+	[105555311806207] = "236a9eed1154b790b9bfee45917c702d", -- Build a Zoo
+
+	[13775256536] = "f2a6e19fd3055b709ffdd90902eb26b6", -- Toilet Tower Defense
+	    [93712201161812] = "f2a6e19fd3055b709ffdd90902eb26b6", -- Lobby
+		[131703399727686] = "f2a6e19fd3055b709ffdd90902eb26b6" -- Game
 
 }
 -------------------------------------------
