@@ -36,19 +36,13 @@ local PlaceIDs = {
 	[1537690962] = "a927d4ab350626e29b1e6ae075b70801", -- Bee Swarm Simulator
 		[15579077077] = "a5c95a88d196d4f920f1acc9914c20eb", -- Bee Swarm Simulator | Hive Hub
 	[139598620873181] = "924b282152b4132e72e98119811c127c", -- MUGEN
-	[138384544898173] = "fd138d558e94ddfde7a7b263c302a534", -- Trade a Brainrot
 	[121864768012064] = "171cff6942d630a1fb488d66be2eeb2c", -- Fish It
-	[90462358603255] = "40e774aa6d188776c82117068c6af7d6", -- Anime Eternal
 	[109983668079237] = "b69f45962d44f8bd67a1a4d0350d7e4e", -- Steal A Brainrot
 		[96342491571673] = "b69f45962d44f8bd67a1a4d0350d7e4e", -- Steal A Brainrot
-	[75366259315586] = "da84b055d84eab48cb53532571d6080d", -- build ur base
-	[127742093697776] = "3d30fc2f417b1024f4aba244079cfa20", -- Plants Vs Brainrots
 
     [76558904092080] = "b45e4746f112c5fa522d2602425d8e19", -- The Forge
 	    [129009554587176] = "b45e4746f112c5fa522d2602425d8e19", -- The Forge
 		[131884594917121] = "b45e4746f112c5fa522d2602425d8e19", -- The Forge
-	[75992362647444] = "d03b29ad8c75a52da6a4751c768ba54e", -- Tap Simulator
-	[130594398886540] = "2da29f8809adcee449386954c5c5b056", -- Garden Horizons
 	
 	[77747658251236] = "3f5a7ccdc686077ef590e84d108977b9", -- Sailor Piece
 	    [130167267952199] = "3f5a7ccdc686077ef590e84d108977b9", -- Sailor Piece Sea 2
@@ -59,6 +53,7 @@ local PlaceIDs = {
 		[138368689293913] = "3f5a7ccdc686077ef590e84d108977b9", -- Inf Tower
 
 	[105555311806207] = "236a9eed1154b790b9bfee45917c702d", -- Build a Zoo
+	[77843161404023] = "ddc56a73fd110a5cc52e922b2373c7c4", -- Run a Restaurant!
 
 	[13775256536] = "f2a6e19fd3055b709ffdd90902eb26b6", -- Toilet Tower Defense
 	    [93712201161812] = "f2a6e19fd3055b709ffdd90902eb26b6", -- Lobby
